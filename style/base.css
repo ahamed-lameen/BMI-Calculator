@@ -1,0 +1,30 @@
+/**
+*
+* base.css
+* @author - Lameen
+* @date - 02/03/2023
+**/
+
+body {
+    font-size: 16px;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    color: #000;
+}
+h1 {
+    font-size: 29px;
+    margin: 10px 0 28px 0;
+    padding: 28px 0 0 0;
+}
+h2 {
+    font-size: 19px;
+    margin: 31px 0 16px 0;
+    font-weight: 500;
+}
+p {
+    margin: 10px 0 10px 0;
+    padding: 19px 0 10px 0;
+    font-weight: 600
+}

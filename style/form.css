@@ -1,0 +1,25 @@
+/**
+*
+* form.css
+* @author - Lameen
+* @date - 02/03/2023
+**/
+
+.text-field {
+    border: none;
+    outline: none;
+    text-align: center;
+    font-size: 23px;
+    font-weight: 500;
+    border-bottom: 1px solid #517fff;
+    margin-bottom: 17px;
+}
+.primary-button {
+    border: none;
+    border-radius: 10px;
+    background-color: #0044ff;
+    color: #fff;
+    padding: 12px 0px;
+    width: 260px;
+    cursor: pointer;
+}
