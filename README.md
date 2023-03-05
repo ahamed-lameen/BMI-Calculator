@@ -1,1 +1,0 @@
-Lameen BMI Calculator 
